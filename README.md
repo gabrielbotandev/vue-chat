@@ -17,7 +17,6 @@ Este projeto é um chat em tempo real, desenvolvido com as tecnologias **Vue.js*
 - **Vue.js**: Framework para a construção de interfaces de usuário interativas.
 - **Vuetify**: Biblioteca de componentes de interface do usuário baseada no Material Design para Vue.js.
 - **Vite**: Ferramenta de build para projetos Vue.js, que oferece rápido carregamento e compilação.
-- **SCSS**: Pré-processador CSS para criar folhas de estilo de forma mais eficiente e modular.
 - **Node.js**: Ambiente de execução JavaScript no servidor.
 - **Express**: Framework para aplicações web em Node.js.
 - **Socket.io**: Biblioteca para comunicação em tempo real entre cliente e servidor.

@@ -14,6 +14,7 @@ Este projeto é um chat em tempo real, desenvolvido com as tecnologias **Vue.js*
 
 ## Tecnologias Utilizadas
 
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática, tornando o código mais seguro e fácil de manter.
 - **Vue.js**: Framework para a construção de interfaces de usuário interativas.
 - **Vuetify**: Biblioteca de componentes de interface do usuário baseada no Material Design para Vue.js.
 - **Vite**: Ferramenta de build para projetos Vue.js, que oferece rápido carregamento e compilação.
